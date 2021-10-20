@@ -40,6 +40,7 @@ const CoinsTable = () => {
   console.log(coins, "coins");
   useEffect(() => {
     fatchCoins();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const darkTheme = createTheme({
