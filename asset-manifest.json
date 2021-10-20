@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jeevan2004/crypto-hunter/static/css/main.cdaf2bef.chunk.css",
+    "main.js": "/jeevan2004/crypto-hunter/static/js/main.2b046cc4.chunk.js",
+    "main.js.map": "/jeevan2004/crypto-hunter/static/js/main.2b046cc4.chunk.js.map",
+    "runtime-main.js": "/jeevan2004/crypto-hunter/static/js/runtime-main.51011e45.js",
+    "runtime-main.js.map": "/jeevan2004/crypto-hunter/static/js/runtime-main.51011e45.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/jeevan2004/crypto-hunter/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.d1c64d4d.chunk.js": "/jeevan2004/crypto-hunter/static/js/2.d1c64d4d.chunk.js",
+    "static/js/2.d1c64d4d.chunk.js.map": "/jeevan2004/crypto-hunter/static/js/2.d1c64d4d.chunk.js.map",
+    "index.html": "/jeevan2004/crypto-hunter/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/jeevan2004/crypto-hunter/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.cdaf2bef.chunk.css.map": "/jeevan2004/crypto-hunter/static/css/main.cdaf2bef.chunk.css.map",
+    "static/js/2.d1c64d4d.chunk.js.LICENSE.txt": "/jeevan2004/crypto-hunter/static/js/2.d1c64d4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51011e45.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.d1c64d4d.chunk.js",
+    "static/css/main.cdaf2bef.chunk.css",
+    "static/js/main.2b046cc4.chunk.js"
+  ]
+}
